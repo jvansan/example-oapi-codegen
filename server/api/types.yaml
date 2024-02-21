@@ -1,0 +1,5 @@
+output: petstore-types.gen.go
+package: api
+generate:
+  # other servers are available!
+  models: true

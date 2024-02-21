@@ -1,0 +1,6 @@
+output: petstore-server.gen.go
+package: api
+generate:
+  # other servers are available!
+  gin-server: true
+  embedded-spec: true
